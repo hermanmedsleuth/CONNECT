@@ -75,7 +75,7 @@ References:
 Setting up CONNECT as a Direct HISP
 ===================================
 
-###Security Policy Files
+### Security Policy Files
 
 This is now a CONNECT prerequisite -- see main [README](https://github.com/CONNECT-Solution/CONNECT/blob/CONNECT/README.md)
 
